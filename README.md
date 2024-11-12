@@ -1,2 +1,0 @@
-# .github
-Configure files
