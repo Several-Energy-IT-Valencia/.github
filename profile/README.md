@@ -1,15 +1,15 @@
-<h1 align="center">IT Team</h1>
+<h1 align="center">Scais Team</h1>
 
 <p align="center">
   <img src="media/Logo.gif" alt="Logo" width="1000"/>
 </p>
 
 
-## ¡Bienvenidos a <Scais team>!
+## ¡Bienvenidos a Scais team!
 
 👋 Hola equipo,
 
-Bienvenidos al corazón de las operaciones de Several Energy: nuestro Departamento de IT. Nos enorgullece ser pioneros en el panorama de IT de Valencia, España, impulsando la columna vertebral tecnológica que impulsa la misión de Several Energy de proporcionar soluciones de energía sostenible y optimizar la eficiencia económica de servicios eléctricos y de gas para nuestros clientes.
+Bienvenidos al corazón de las operaciones de Scais: nuestro Departamento de IT. Nos enorgullece ser pioneros en el panorama de IT de Valencia, España, impulsando la columna vertebral tecnológica que impulsa la misión de Scais de proporcionar soluciones de tecnologia sostenible y optimizar la eficiencia económica de servicios informaticos para nuestros clientes.
 
 ## Nuestra Misión
 
