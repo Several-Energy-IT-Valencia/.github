@@ -5,7 +5,7 @@
 </p>
 
 
-## ¡Bienvenidos al IT de Several Energy!
+## ¡Bienvenidos a <Scais team>!
 
 👋 Hola equipo,
 
@@ -13,11 +13,11 @@ Bienvenidos al corazón de las operaciones de Several Energy: nuestro Departamen
 
 ## Nuestra Misión
 
-Como equipo, estamos dedicados a aprovechar soluciones de IT de vanguardia para respaldar el compromiso de Several Energy con la energía sostenible.
+Como equipo, estamos dedicados a aprovechar soluciones de IT de vanguardia para respaldar el compromiso de Scais con el desarrollo tecnologico sostenible.
 
 ### Quiénes Somos
 
-Somos los pioneros del Departamento de IT en Valencia, España, responsables de todo lo relacionado con el mundo de IT dentro de Several Energy.
+Somos los pioneros del Departamento de IT en Valencia, España, responsables de todo lo relacionado con el mundo de IT en Scais.
 
 ## Participación
 
@@ -28,6 +28,6 @@ Animamos a todos en el Departamento de IT a participar activamente, compartir id
 - ☕ ¿Nuestra fuente de energía para la innovación? ¡Café, por supuesto!
 ----------------
 
-Recordemos, el poder del Departamento de IT de Several Energy radica en las habilidades y contribuciones únicas de cada miembro del equipo. ¡Trabajemos juntos para impulsar un cambio positivo e innovación en el mundo de la energía sostenible!
+Recordemos, el poder del Departamento de IT de Scais radica en las habilidades y contribuciones únicas de cada miembro del equipo. ¡Trabajemos juntos para impulsar un cambio positivo e innovación en el mundo de la energía sostenible!
 
-¡Several Energy, Transformando Energía en Éxito! 🚀
+¡Scais, Transformando tecnologia en Éxito! 🚀
